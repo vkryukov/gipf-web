@@ -1,0 +1,34 @@
+.white-move:hover {
+    fill: white;
+    fill-opacity: 0.8;
+    stroke: grey;
+}
+
+.selected-move-white {
+    fill: white;
+    fill-opacity: 0.8;
+    stroke: grey;
+}
+
+.black-move:hover {
+    fill: dimgrey;
+    fill-opacity: 0.8;
+    stroke: black;
+    stroke-opacity: 0.8;
+}
+
+.selected-move-black {
+    fill: dimgrey;
+    fill-opacity: 0.8;
+    stroke: black;
+    stroke-opacity: 0.8;
+}
+
+.select-quad {
+    fill:transparent;
+}
+
+.select-quad:hover {
+    fill: red;
+    fill-opacity: 0.6;
+}
